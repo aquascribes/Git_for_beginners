@@ -21,10 +21,9 @@ Following is the list of handy git commands :
   17. git reset commitnumber: it resets your git version to the commitnumber you suggest
   18. git checkout commitnumber : it takes u to the commit number suggeseted.(going to a particular stage or head)
   19. git remote add origin https://github.com/aquascribes/time_window.git : to add a  online github repository connected to ur local machine
-  20. git push -u origin mai![image](https://github.com/aquascribes/time_window/assets/79290133/79f83dbc-d110-4d4c-b261-792a40304b3b)
-                (to push chnages from local machine to onlien github)
+  20. git push -u origin main (https://github.com/aquascribes/time_window/assets/79290133/79f83dbc-d110-4d4c-b261-792a40304b3b) : (to push chnages from local machine to onlien github, origin is the remote/online github & main.master is the master file created in locak machine)
   When pushing files to github, they ask for your username & passowrd auth details. For that you have to downlaod a personal access token key from delevoper tools
-  22. # SOME  TERMINAL COMMANDS
+  . # SOME  TERMINAL COMMANDS
   1. ls : to list all filenames in a folder
   2. ls -a : to list hidden files in a folder
   3. cd : change directoty
