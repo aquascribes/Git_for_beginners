@@ -1,4 +1,4 @@
-# time_window
+# git commands list for beginners
 Python code to display a clock window on your machine & in process learn about different git commands for beginners
 Installation of git in MacOS using homebrew (https://brew.sh/)
 Following is the list of handy git commands : 
