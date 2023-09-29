@@ -2,8 +2,8 @@ from tkinter import Tk, Label
 from datetime import datetime
 
 window=Tk()
-window.title("digital clock")
-window.geometry("600x300")
+window.title("Window1")
+window.geometry("600x400")
 window.configure(bg="steelblue")
 
 label=Label(window,font=("Arial Black",78,"bold"),bg="steelblue")
